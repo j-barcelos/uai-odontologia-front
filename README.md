@@ -35,10 +35,24 @@ Uma página única, moderna e responsiva que apresenta os serviços odontológic
 
 ```
 .
-├─ index.html          # Página principal (HTML, CSS e JS embutidos)
-├─ assets/             # Imagens dos membros da equipe
-│   ├─ logo.png
-│   └─ ...
+├─ index.html                 # arquivo principal
+├─ assets/
+│   ├─ images/
+│   │   ├─ logo.png
+│   │   ├─ hero.png
+│   ├─ cards/
+│   │   ├─ DrHugo.jpeg
+│   │   ├─ DrRafael.jpeg
+│   │   ├─ DrRenato.jpg
+│   │   ├─ DraAna.jpeg
+│   │   ├─ DraCarolain.jpg
+│   │   ├─ DraDanielle.jpg
+│   │   ├─ DraGiovanna.jpeg
+│   │   ├─ DraGiullya.jpeg
+│   │   ├─ DraIsabella.jpeg
+│   │   ├─ DraIsadora.jpeg
+│   │   ├─ DraLeticia.jpg
+│   │   ├─ DraNatalia.jpeg
 └─ README.md
 ```
 
